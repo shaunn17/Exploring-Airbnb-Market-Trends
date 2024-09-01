@@ -12,7 +12,7 @@ listing_id: unique identifier of listing
 description: listing description
 room_type: Airbnb has three types of rooms: shared rooms, private rooms, and entire homes/apartments
 
-**airbnb_last_review.tsv** - This is a TSV file containing data on Airbnb host names and review dates.
+**airbnb_last_review.tsv** - This is a TSV (tab separated values) file containing data on Airbnb host names and review dates.
 
 listing_id: unique identifier of listing
 host_name: name of listing host
